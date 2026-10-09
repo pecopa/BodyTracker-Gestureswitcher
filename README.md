@@ -1,6 +1,6 @@
 # 🖐️ Gesture Window Switcher
 
-Switch between open windows using hand gestures — no keyboard, no mouse.
+Switch between open windows using hand gestures - no keyboard, no mouse.
 
 ## Demo
 
@@ -76,7 +76,7 @@ All tuning parameters are at the top of `gesture_switcher.py`:
 
 - Python 3.10+
 - Webcam
-- Windows (uses `Alt+Tab` — macOS/Linux use different shortcuts)
+- Windows (uses `Alt+Tab` - macOS/Linux use different shortcuts)
 
 ## Tech stack
 
